@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "filename": "a1video.kicad_pro",
+    "version": 3
+  },
+  "sheets": [
+    [
+      "87e5cc69-0ff7-5828-9b19-68b0750e336f",
+      "Root"
+    ],
+    [
+      "41eec974-fca8-54b5-bc6e-dd7844c58978",
+      "Timing"
+    ],
+    [
+      "57f46100-8708-5b0b-a88a-98c580a94fe1",
+      "Video"
+    ],
+    [
+      "33f9ec4c-8af7-57ae-9d3b-781b992da85e",
+      "Sequencer"
+    ],
+    [
+      "24a692ab-bbb1-5107-b761-403f77a0bb2d",
+      "Counters"
+    ],
+    [
+      "46999b99-94a7-5a2c-ac84-e3ce0f33599d",
+      "Power"
+    ]
+  ],
+  "text_variables": {}
+}
